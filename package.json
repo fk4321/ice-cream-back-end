@@ -1,0 +1,18 @@
+{
+  "name": "ice-cream-shop-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script",
+    "start:dev": "nodemon script"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "pg": "^8.11.3"
+  }
+}
